@@ -5,7 +5,8 @@ require '../models/user.php';
 $users = findAllUsers();
 //var_dump($users);
 //die();
-
+// voir la modif
+// ok
 require 'templates/header.php'?>
 
 <body>
